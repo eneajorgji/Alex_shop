@@ -4,7 +4,7 @@
       <div class="navbar-brand">
         <router-link to="/" class="navbar-item"><strong>Alex Shop</strong></router-link>
 
-        <a class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="nabar-menu" @click="showMobileMenu = !showMobileMenu">
+        <a class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbar-menu" @click="showMobileMenu = !showMobileMenu">
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
           <span aria-hidden="true"></span>
