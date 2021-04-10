@@ -13,3 +13,6 @@ For this project I am using Django and Vue. I am trying to build an online shop.
 - can choose between different sizes
 - can select different items as favorite
 - can select items to the cart
+
+### To login to ADMIN
+$: python manage.py runserver 
